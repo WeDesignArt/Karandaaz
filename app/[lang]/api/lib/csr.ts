@@ -89,7 +89,7 @@ const MOCK_CSR_DATA = {
       image: {
         node: {
           mediaItemUrl:
-            'https://krndevelop.wpenginepowered.com/wp-content/uploads/2024/10/KRNwebsitethumbnail.png',
+            'https://krndevelop.wpenginepowered.com/wp-content/uploads/2024/07/women_financial_inclusion.png',
         },
       },
     },
@@ -102,7 +102,7 @@ const MOCK_CSR_DATA = {
       image: {
         node: {
           mediaItemUrl:
-            'https://krndevelop.wpenginepowered.com/wp-content/uploads/2024/10/KRNwebsitethumbnail.png',
+            'https://krndevelop.wpenginepowered.com/wp-content/uploads/2025/10/Blog_Blog-header-women.jpg',
         },
       },
     },
