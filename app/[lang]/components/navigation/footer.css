@@ -1,0 +1,143 @@
+ul.socialicons li a {
+  background: var(--blue40);
+  padding: 0.6rem 0.3rem;
+  margin: 0rem 0.1rem;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  display: inline-block;
+}
+
+ul.socialicons li svg {
+  font-size: 28px;
+  color: var(--blue90);
+}
+ul.socialicons li svg:hover {
+  color: var(--white);
+}
+ul.socialicons li a {
+  line-height: normal;
+}
+aside ul.socialicons li a {
+  width: 40px;
+  height: 40px;
+  padding: 0.4rem;
+}
+aside ul.socialicons li svg {
+  font-size: 1.4rem;
+}
+
+aside ul.socialicons li svg path {
+  fill: white;
+}
+ul.socialicons li:first-of-type {
+  padding-left: 0 !important;
+}
+
+.footer-wrapper li {
+  line-height: 1.2;
+}
+
+.footer-wrapper li a {
+  font-size: 0.875rem;
+}
+
+footer .ctct-form-custom label {
+  display: none !important;
+}
+
+footer .ctct-form-custom .ctct-gdpr-text {
+  display: none !important;
+}
+
+footer .ctct-form-custom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: top;
+  width: 100%;
+}
+
+footer .ctct-form-custom .ctct-form-field {
+  min-width: 299px;
+  margin-right: 0.4rem !important;
+}
+
+footer .ctct-form-custom .ctct-form-button {
+  height: 46px;
+}
+
+footer .ctct-form-custom .ctct-form-field {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+footer .ctct-form-custom .ctct-form-errorMessage {
+  order: 1;
+}
+
+footer div.ctct-form-embed form.ctct-form-custom {
+  margin: 0 auto;
+  box-sizing: border-box;
+  min-height: 70px;
+}
+
+footer form.ctct-form-custom input#email_address_0 {
+  border-color: var(--krnblue);
+  background: transparent;
+  color: white;
+}
+
+footer.ctct-form-embed div.ctct-form-defaults div.ctct-form-success * {
+  color: white !important;
+}
+.footer-logo {
+  height: 56px;
+  left: -0.5rem;
+}
+@media (max-width: 480px) {
+  .counter .counter-grid {
+    grid-template-columns: 1fr; /* 1 column on very small screens */
+    grid-template-rows: repeat(6, auto); /* 6 rows on very small screens */
+  }
+  ul.socialicons {
+    margin-top: 2.5rem;
+  }
+  .footer-wrapper .widget {
+    margin-top: 2rem;
+  }
+  .footer-wrapper .widget li a {
+    font-size: 1rem;
+  }
+  .footer-wrapper .language-dropdown-footer {
+    padding: 2rem 0;
+    border-top: 1px solid var(--blue60);
+    border-bottom: 1px solid var(--blue60);
+  }
+  .footer-wrapper .newsletter {
+    padding: 2rem 0;
+    border-top: 1px solid var(--blue60);
+  }
+}
+
+.footer-links li a:hover,
+.designed-by:hover {
+  color: var(--white);
+}
+
+html[dir='rtl'] {
+  .list-unstyled {
+    padding-right: 0;
+    list-style: none;
+  }
+  .footer-logo {
+    left: auto;
+    right: -0.5rem;
+  }
+  @media (max-width: 480px) {
+    ul.socialicons {
+      padding-right: 0;
+      justify-content: flex-end;
+    }
+  }
+}

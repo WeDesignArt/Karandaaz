@@ -1,0 +1,26 @@
+.application-date-card {
+  height: calc(40% - 1.5rem);
+  display: flex;
+  align-items: center;
+}
+.application-date-card .col-md-6:first-of-type {
+  border-right: 2px solid white;
+  padding-right: 2rem;
+}
+@media (max-width: 1024px) {
+  .application-date-card {
+    height: auto;
+    display: flex;
+    align-items: center;
+  }
+  .application-date-card .col-md-6:first-of-type {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+@media (max-width: 767px) {
+  .innovation-challenge .col-md-6 img {
+    height: 200px;
+    object-fit: cover;
+  }
+}

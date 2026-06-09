@@ -1,0 +1,58 @@
+.job-content strong {
+    font-weight: 600;
+    color: var(--grey100);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.job-content b,
+.job-content strong {
+    font-weight: 600;
+}
+
+.job-content u {
+    font-weight: 600;
+    color: var(--grey100);
+}
+
+.job-content a {
+    color: var(--grey100);
+    text-decoration: underline;
+}
+
+.job-content ul {
+    margin-bottom: 2rem;
+}
+
+div.job-container {
+    border-radius: 12px;
+    border: 1px solid var(--grey20);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 1.25rem;
+    color: var(--grey90)
+}
+
+.job-detail ul li {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.job-detail ul li svg {
+    margin-right: 0.7rem;
+}
+
+.job-detail ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0.75rem 2rem 0.75rem;
+}
+
+.deadline-box {
+    background-color: #ECFDF3;
+    border-radius: 20px;
+    color: #027A48;
+    padding: 4px;
+    font-weight: 500;
+}

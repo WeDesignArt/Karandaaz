@@ -1,0 +1,10 @@
+.author-logo {
+  height: 1.5rem;
+  width: auto;
+}
+.press-release blockquote {
+  @apply border border-gray-300 border-solid rounded-2xl p-4 my-8;
+}
+.press-release blockquote p {
+  @apply mb-0;
+}

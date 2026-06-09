@@ -1,0 +1,86 @@
+.tabslist li {
+  font-weight: 600;
+  border: 0;
+  padding: 0rem 2rem;
+}
+
+.tabslist li button {
+  border: 4px solid transparent !important;
+  border-radius: 60px !important;
+  padding: 1rem 0rem;
+  margin: 0;
+  color: var(--grey50);
+}
+
+.tabslist li button.active {
+  color: var(--krnblue);
+  border-bottom: 4px solid var(--krnblue) !important;
+}
+
+.tabslist .nav-tabs .nav-link:hover,
+.tabslist .nav-tabs .nav-link:focus {
+  color: var(--krnblue) !important;
+  border-bottom-color: var(--krnblue) !important;
+}
+
+ul#innerTab {
+  padding: 10px 20px;
+  border: 1px solid var(--grey30);
+  border-radius: 100px;
+  max-width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul#innerTab li {
+  margin: 0rem 1rem;
+}
+
+ul#innerTab li button {
+  color: var(--krnblue);
+  padding: 10px;
+  border: 0;
+  padding: 8px 24px;
+}
+
+ul#innerTab li button.active,
+ul#innerTab li button:hover {
+  background: var(--krnblue);
+  border-radius: 60px !important;
+  color: white !important;
+}
+
+ul#innerTab li:first-child,
+ul#innerTab li:last-child {
+  padding: 0rem !important;
+}
+
+.tab-pane form {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+@media (max-width: 480px) {
+  .tabslist li button {
+    font-size: 1.25rem;
+  }
+}
+
+/* .tab-pane .image-grid img {
+  height: auto !important;
+  width: auto !important;
+} */
+
+.tab-pane .image-grid .col-md-6:nth-child(1) {
+  padding: 2rem;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.05), 0 4px 24px 0 rgba(0, 0, 0, 0.08);
+}
+
+/* .card-img, .card-img-top, .card-img-bottom {
+    width: 100% !important;
+    height: 220px !important;
+    max-height: 220px;
+  } */

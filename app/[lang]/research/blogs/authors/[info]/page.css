@@ -1,0 +1,20 @@
+.breadcrumb a {
+    text-transform: uppercase;
+}
+
+.profile-cardv{
+    padding: 0px;
+    border: 1px solid var(--grey20);
+    border-radius: 16px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.05), 0px 4px 24px 0px rgba(0, 0, 0, 0.08);
+}
+
+.author-relatedblog .card img {
+    height: 199px;
+    object-fit: cover;
+}
+
+.author-relatedblog .card {
+    box-shadow: 0px 4px 24px 0px #00000014;
+    box-shadow: 0px 4px 4px 0px #0000000D;
+}

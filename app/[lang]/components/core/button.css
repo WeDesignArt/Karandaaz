@@ -1,0 +1,52 @@
+.hoverBtn:hover {
+  background-color: var(--grey00);
+  color: var(--krnblue);
+}
+
+.butn {
+  padding: 10px 24px;
+  border-radius: 60px;
+  display: inline-block;
+  transition: 0.3s ease-in-out;
+}
+.butn + .butn {
+  margin-left: 2rem;
+}
+/* Filled Button Blue */
+.butn-solid {
+  border: 1px solid var(--krnblue);
+  background: var(--krnblue);
+  color: white;
+}
+
+.butn-solid:hover {
+  background: var(--blue70);
+}
+
+.butn-large {
+  padding-left: 72.5px;
+  padding-right: 72.5px;
+}
+
+/* Outlined Button */
+.butn-outline {
+  background: transparent;
+  border: 1px solid var(--krnblue);
+  color: var(--krnblue);
+}
+
+.butn-outline:hover {
+  background: var(--krnblue);
+  border: 1px solid var(--krnblue);
+  color: white;
+}
+
+@media (max-width: 480px) {
+  .butn {
+    width: 100%;
+  }
+  .butn + .butn {
+    margin-left: 0;
+    margin-top: 1.5rem;
+  }
+}

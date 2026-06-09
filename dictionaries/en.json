@@ -1,0 +1,197 @@
+{
+  "navigation": {
+    "home": "Home",
+    "aboutUs": {
+      "title": "About us",
+      "desc": "Investing for shared prosperity.",
+      "aboutKarandaaz": "About Karandaaz",
+      "boardAndCommittees": "Board and Committees",
+      "ourPeople": "Our People",
+      "workWithUs": "Work with us"
+    },
+    "whatWedo": {
+      "title": "What we do",
+      "desc": "Unlocking potential for businesses and underserved communities with a focus on capital, digital, innovation, and research initiatives.",
+      "capital": {
+        "title": "Capital",
+        "directInvestments": "Direct Investments",
+        "wholesaleInvestments": "Wholesale Investments",
+        "strategicInvestments": "Strategic Investments",
+        "greenInvestments": "Green Investments"
+      },
+      "digital": {
+        "title": "Digital",
+        "digitalPublicInfrastructure": "Digital Public Infrastructure",
+        "publicSectorEngagements": "Public Sector Engagements",
+        "privateSectorEngagements": "Private Sector Engagements",
+        "researchAndDataAnalytics": "Research And Data Analytics",
+        "policyAndRegulation": "Policy And Regulation",
+        "socialProtectionInterventions": "Social Protection Interventions",
+        "WomenEconomicDigitalInclusionInitiative": "Women Economic Digital Inclusion Initiative"
+      },
+      "innovation": {
+        "title": "Innovation Investments",
+        "innovationChallengeFund": "Innovation Challenge Fund",
+        "womenVentures": "Women Ventures",
+        "greenfinInnovations": "Greenfin Innovations"
+      },
+      "research": {
+        "title": "Research",
+        "blogs": "Blogs",
+        "publications": "Publications",
+        "challengeRounds": "Challenge Rounds"
+      }
+    },
+    "newsAndMedia": {
+      "title": "News & Media",
+      "desc": "Explore Karandaaz's impact through press releases, newsletters, and stories.",
+      "newsAndPressReleases": "News & Press Releases",
+      "newsletters": "Newsletters",
+      "karandaazStories": "Karandaaz Stories",
+      "mediaEnquiries": "Media Enquiries"
+    },
+    "careers": "Careers",
+    "procurement": "Procurement",
+    "contact": "Contact",
+    "dataPortal": "Data Portal"
+  },
+  "footer": {
+    "contactUs": "Contact Us",
+    "number": "+92 (51) 8449761",
+    "address": "Karandaaz Pakistan,1-E Ali Plaza, Nazimuddin Road, Islamabad",
+    "quickLinks": {
+      "heading": "Quick Links",
+      "home": "Home",
+      "research": "Research",
+      "capital": "Capital",
+      "newsAndMedia": "News & Media",
+      "digital": "Digital",
+      "about": "About",
+      "innovation": "Innovation Investments",
+      "careers": "Careers",
+      "procurement": "Procurement"
+    },
+    "corporateLinks": {
+      "heading": "Corporate Info",
+      "antiFraud": "Anti-fraud & Corruption policy",
+      "safeGuardingPolicy": "Safeguarding Policy",
+      "codeOfConduct": "Code of Conduct",
+      "privacyPolicy": "Privacy Policy",
+      "annualReports": "Annual Reports",
+      "disclaimer": "Disclaimer",
+      "npoCertification": "NPO Certification",
+      "siteMap": "Sitemap"
+    },
+    "compliance": {
+      "heading": "Compliance",
+      "statusNTN": "Status & NTN",
+      "auditorLegalAdvisor": "Auditor & Legal Advisor",
+      "secp": "SECP Services"
+    },
+    "newsletter": "Sign up for our Newsletter"
+  },
+  "mainHomePage": {
+    "mainHeroSection": "Investing for shared prosperity",
+    "homeNewsTicker": "Latest News"
+  },
+  "sitemap": {
+    "karandaaz": {
+      "heading": "Karandaaz",
+      "homepage": "Homepage",
+      "capital": "Captital",
+      "digital": "Digital",
+      "innovation": "Innovation",
+      "research": "Research",
+      "newsAndMedia": "News and Media",
+      "about": "About",
+      "careers": "Careers",
+      "procurement": "Procurement",
+      "contact": "Contact",
+      "faq": "FAQs"
+    },
+    "compliance": {
+      "heading": "Compliance",
+      "statusNTN": "Status & NTN",
+      "auditorLegalAdvisor": "Auditor & Legal Advisor",
+      "secp": "SECP Services"
+    },
+    "corporateLinks": {
+      "heading": "Corporate Info",
+      "antiFraud": "Anti-fraud & Corruption policy",
+      "safeGuardingPolicy": "Safeguarding Policy",
+      "codeOfConduct": "Code of Conduct",
+      "privacyPolicy": "Privacy Policy",
+      "annualReports": "Annual Reports",
+      "disclaimer": "Disclaimer",
+      "npoCertification": "NPO Certification",
+      "siteMap": "Sitemap"
+    },
+    "about": {
+      "heading": "About",
+      "boardAndCommittees": "Board and Committees",
+      "ourPeople": "Our People",
+      "workWithUs": "Work with us"
+    },
+    "newsAndMedia": {
+      "title": "News and Media",
+      "newsAndPressReleases": "Press Releases",
+      "newsletters": "Newsletters",
+      "karandaazStories": "Stories",
+      "mediaEnquiries": "Media Enquiries"
+    },
+    "careers": {
+      "heading": "Carrers",
+      "availablePositions": "Available Positions"
+    },
+    "procurement": {
+      "heading": "Procrument",
+      "contractualOppurtunities": "Contractual Oppurtunities",
+      "generalTermsConditions": "General Terms & Conditions",
+      "blacklistedFirms": "Blacklisted Firms",
+      "archives": "Archives"
+    },
+    "dataPortal": {
+      "heading": "Data Portal",
+      "browsableCategories": "Browsable Categories",
+      "signUp": "Sign up for Tools",
+      "login": "Log in to portal",
+      "faq": "FAQs"
+    },
+    "capital": {
+      "heading": "Capital",
+      "directInvestments": "Direct Investments",
+      "wholesaleInvestments": "Wholesale Investments",
+      "strategicInvestments": "Strategic Investments",
+      "greenInvestments": "Green Investments"
+    },
+    "digital": {
+      "heading": "Digital",
+      "digitalPublicInfrastructure": "Digital Public Infrastructure",
+      "publicSectorEngagements": "Public Sector Engagements",
+      "privateSectorEngagements": "Private Sector Engagements",
+      "researchAndDataAnalytics": "Research & Data Analytics",
+      "policyAndRegulation": "Policy & Regulation"
+    },
+    "research": {
+      "heading": "Research",
+      "blogs": "Blogs",
+      "publications": "Publications"
+    },
+    "innovation": {
+      "heading": "Innovation",
+      "innovationChallengeFund": "Innovation Challenge Fund",
+      "womenVentures": "Women Ventures",
+      "greenfin": "GreenFin Innovations"
+    }
+  },
+  "openOppurtunity": {
+    "heading": "Open Opportunities",
+    "search": "Search Opportunities",
+    "program": "Program",
+    "oppurtunityType": "Opportunity Type",
+    "year": "Year"
+  },
+  "subscriptionSection": {
+    "heading": "Receive our expert insights and updates"
+  }
+}

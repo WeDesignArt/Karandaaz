@@ -1,0 +1,117 @@
+/* All forms */
+input[type='file']::file-selector-button {
+  margin-right: 20px;
+  border: 1px solid var(--krnblue);
+  border-radius: 20px;
+  background: #ffffff00;
+  padding: 6px 10px;
+  color: var(--krnblue);
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  font-size: 16px;
+}
+
+input[type='file']::file-selector-button:hover {
+  background: var(--krnblue);
+  color: white;
+}
+.form-control,
+button.btn {
+  padding: 0.6rem;
+}
+
+section.section-py-md form hr {
+  margin-top: 1.725rem;
+  margin-bottom: 1.25rem;
+}
+
+/* Contact Field */
+.contacttype.field-error {
+  border-color: var(--red50);
+}
+.contacttype.form-control {
+  width: 100%;
+  border-radius: 16px;
+  height: auto;
+  border: var(--bs-border-width) solid var(--bs-border-color);
+}
+
+.contacttype.form-control:focus,
+.contacttype.form-select:focus {
+  outline: var(--krnblue);
+  border-color: var(--krnblue);
+  box-shadow: 0 0 10px var(--krnblue);
+}
+
+/* Error Styling */
+.form-element {
+  position: relative;
+}
+
+.tooltip-icon {
+  position: absolute;
+  right: 1rem;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tooltip-icon-select {
+  position: absolute;
+  right: 1rem;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  margin-right: 15px;
+  margin-top: 5px;
+}
+
+.errorState {
+  color: var(--red50);
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+  margin-left: 5px;
+  font-weight: 200;
+}
+
+.field-error {
+  border-color: var(--red50);
+}
+
+/* Global Form Styling */
+.form-control::placeholder {
+  color: var(--grey50);
+  opacity: 1;
+}
+.form-control,
+.form-select {
+  border-radius: 16px;
+}
+.form-control:focus,
+.form-select:focus {
+  outline: var(--krnblue);
+  border-color: var(--krnblue);
+  box-shadow: 0 0 10px var(--krnblue);
+}
+.input-group-text {
+  border-radius: 16px;
+}
+/* color of placeholder */
+.form-select {
+  color: var(--grey50);
+}
+.career-form hr {
+  margin: 2rem 0;
+}
+.career-form .subtitle-style-1 {
+  margin-top: 0;
+}
+
+@media (min-width: 1025px) {
+  .career-form .resume-field .body2 {
+    margin-left: 1.5rem;
+  }
+}

@@ -1,0 +1,41 @@
+/* header */
+.active {
+  font-weight: 500;
+}
+
+@media (min-width: 769px) {
+  .navbar-fixed {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    z-index: 1030;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .navbar-placeholder {
+    height: 70px; /* Match the height of your navbar */
+  }
+  .sticky-top.sticky-position {
+    top: 75px;
+  }
+}
+@media (max-width: 768px) {
+  .mobile-fixed {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  .navbar-mobile-placeholder {
+    height: 64px; /* Match the height of your navbar */
+  }
+  .navbar-dropdown {
+    position: fixed !important;
+    width: 100%;
+    z-index: 1000;
+  }
+  .sticky-top.sticky-position {
+    top: 75px;
+  }
+}

@@ -1,0 +1,65 @@
+b,
+strong {
+  font-weight: 500;
+}
+
+.benefitssec {
+  /* Transparent gradient on top of the image */
+  background: linear-gradient(to right, rgba(8, 98, 139, 1) 50%, rgba(8, 98, 139, 0) 100%),
+    url('http://krndevelop.wpenginepowered.com/wp-content/uploads/2024/10/benefitsbg.png') right center no-repeat;
+
+  background-size: cover;
+  /* Adjust the image size to fit vertically */
+
+  /* Maintain other properties */
+  margin-top: 3.75rem;
+  background-position: right center;
+  /* Image stays on the right */
+}
+
+ul.benefitslist li {
+  padding: 1.25rem 0rem;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  color: white;
+}
+
+ul.benefitslist {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.benefitslist li img {
+  margin-right: 1.25rem;
+}
+
+.krn-alum p {
+  margin-bottom: 0;
+}
+
+html[dir='rtl'] {
+  .benefitssec {
+    /* Transparent gradient on top of the image */
+    background: linear-gradient(to left, rgba(8, 98, 139, 1) 50%, rgba(8, 98, 139, 0) 100%),
+      url('http://krndevelop.wpenginepowered.com/wp-content/uploads/2024/10/benefitsbg.png') right center no-repeat;
+
+    background-size: cover;
+    /* Adjust the image size to fit vertically */
+
+    /* Maintain other properties */
+    margin-top: 3.75rem;
+    background-position: left center;
+    /* Image stays on the right */
+  }
+
+  ul.benefitslist {
+    list-style: none;
+    padding-right: 0;
+  }
+
+  ul.benefitslist li img {
+    margin-left: 1.25rem;
+    margin-right: 0;
+  }
+}

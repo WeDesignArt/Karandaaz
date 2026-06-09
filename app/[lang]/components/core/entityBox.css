@@ -1,0 +1,32 @@
+.box-entities.bg-blue00 {
+    margin: 18px 0rem;
+    padding: 46px 24px;
+    border-radius: 18px;
+  }
+  
+  .box-entities ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .box-entities h6 {
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--grey20);
+    margin-bottom: 18px;
+  }
+  
+  .box-entities ul li {
+    margin-bottom: 18px;
+  }
+  
+  .box-entities ul li:last-child {
+    margin-bottom: 0;
+  }
+  
+  .box-entities li > p {
+    margin-bottom: 8px;
+  }
+  
+  .box-entities li h4 span {
+    font-size: 24px;
+  }

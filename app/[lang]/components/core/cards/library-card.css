@@ -1,0 +1,23 @@
+.rl-box {
+    border-radius: 12px;
+    background: var(--Grey-Grey-00, #FFF);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.05), 0px 4px 24px 0px rgba(0, 0, 0, 0.08);
+    padding: 2rem 2rem;
+    display: block;
+}
+
+.rl-box ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+ul.rl-detail li {
+    color: var(--grey100);
+}
+
+ul.rl-detail li span {
+    min-width: 82px;
+    display: inline-block;
+    color: var(--grey60);
+}

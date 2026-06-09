@@ -1,0 +1,81 @@
+.iconStyle {
+  cursor: pointer;
+  color: black;
+  font-size: 34px;
+}
+
+.breadcrumb .pb-md-5 {
+  padding-bottom: 0 !important;
+}
+
+.mapbox,
+.mapbox iframe {
+  border-radius: 20px !important;
+}
+
+.work-card {
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.05), 0px 4px 24px 0px rgba(0, 0, 0, 0.08);
+}
+
+.work-card .wk-upper img {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.work-card .wk-lower {
+  padding: 2rem;
+}
+
+.wk-lower p {
+  color: var(--grey100);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.work-card .wk-lower a {
+  margin-left: 0;
+  padding-left: 2.2rem;
+  padding-right: 2.2rem;
+}
+
+div.contact-detail {
+  color: var(--grey90);
+}
+
+.contact-detail ul li,
+.contact-detail ul li a {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.contact-detail ul li * {
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: var(--grey90);
+}
+
+.contact-detail ul li svg {
+  margin-right: 0.7rem;
+  font-size: 2rem;
+}
+
+.contact-detail ul {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+}
+@media (max-width: 480px) {
+  .work-card .wk-lower {
+    padding: 1.5rem;
+  }
+  .work-card {
+    margin-top: 1.5rem;
+  }
+}

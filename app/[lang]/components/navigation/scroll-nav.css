@@ -1,0 +1,4 @@
+.active-link{
+    border-bottom: 4px solid var(--krnblue);
+    color: var(--krnblue);
+}

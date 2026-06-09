@@ -1,0 +1,41 @@
+ul.social-icons li a {
+  background: var(--blue40);
+  padding: 0.6rem 0.3rem;
+  margin: 0rem 0.1rem;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  display: inline-block;
+}
+
+ul.social-icons li svg {
+  font-size: 28px;
+  color: var(--blue90);
+}
+
+ul.social-icons li svg:hover {
+  color: var(--white);
+}
+
+aside ul.social-icons li a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  padding: 0.4rem;
+}
+
+aside ul.social-icons li svg {
+  font-size: 1.4rem;
+}
+
+aside ul.social-icons li svg path {
+  fill: white;
+}
+
+ul.social-icons li:first-of-type {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}

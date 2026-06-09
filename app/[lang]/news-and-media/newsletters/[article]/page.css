@@ -1,0 +1,262 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
+}
+
+.newsletter-section {
+  border-bottom: 1px solid var(--grey30);
+  padding-bottom: 2rem;
+}
+
+.heading-tag {
+  width: 100%;
+  height: auto;
+  max-width: fit-content;
+  margin-bottom: 2rem;
+}
+
+.clear::after {
+  clear: both;
+}
+
+.newsletter-section:last-of-type {
+  border-bottom: none;
+  padding-bottom: 2rem;
+}
+
+.blockquote {
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.blockquote p {
+  margin-bottom: 0;
+}
+
+.blockquote .author-card {
+  font-style: normal;
+}
+
+.author-card {
+  font-size: 1rem;
+  color: var(--gray80);
+}
+
+.author-card .title {
+  font-weight: 500;
+  font-size: 0.875rem;
+}
+
+.author-card .name {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.author-card .image-wrap {
+  width: 5rem;
+  height: 5rem;
+  background-color: var(--dfagreen);
+  border-radius: 50%;
+}
+
+.floating-nav h4 {
+  font-size: 24px;
+  color: var(--gray80);
+}
+
+.ad-block {
+  padding: 2rem 0 0;
+  display: flex;
+  border-top: 1px solid var(--grey30);
+  margin-top: 2rem;
+}
+
+.ad-block+h4 {
+  padding-top: 4rem;
+  margin-top: 2rem;
+  border-top: 1px solid var(--grey30);
+}
+
+.banner-image {
+  width: 100%;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  max-height: 544px;
+  object-fit: cover;
+  border: 1px solid var(--grey10);
+}
+
+.main-image {
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+  display: block;
+  border-radius: 1rem;
+}
+
+.img-full {
+  width: 100%;
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  max-height: 544px;
+  min-height: 250px;
+  object-fit: cover;
+}
+
+.img-half {
+  width: 40%;
+  max-width: 100%;
+  height: auto;
+  margin-top: 0.5rem;
+  border-radius: 1rem;
+}
+
+.img-thumbnail {
+  width: 20%;
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0;
+  height: auto;
+  padding: 0;
+  border: none;
+}
+
+.img-thumbnail.logo {
+  max-height: 120px;
+  object-fit: contain;
+  width: auto;
+  max-width: 20%;
+}
+
+.img-full+h4,
+.img-full+h3 {
+  margin-top: 3rem;
+}
+
+.img-full+.blockquote .author-card {
+  margin-top: 2rem !important;
+}
+
+.partnersInterview .img-half:nth-of-type(even),
+.KRNPublications .img-half:nth-of-type(even),
+.successStories .img-half:nth-of-type(even),
+.newsFlash .img-half:nth-of-type(even),
+.KRNBlogs .img-half:nth-of-type(even) {
+  float: right;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.partnersInterview .img-half:nth-of-type(odd),
+.KRNPublications .img-half:nth-of-type(odd),
+.successStories .img-half:nth-of-type(odd),
+.newsFlash .img-half:nth-of-type(odd),
+.KRNBlogs .img-half:nth-of-type(odd) {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.newsFlash h4:not(:first-of-type) {
+  margin-top: 2rem;
+}
+
+.newsletter-section .ctct-form-custom {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.newsletter-section .ctct-form-label,
+.newsletter-section #gdpr_text,
+.newsletter-section .ctct-form-errorMessage {
+  display: none !important;
+}
+
+.newsletter-section .ctct-form-embed form.ctct-form-custom {
+  min-height: auto;
+  display: flex;
+}
+
+.newsletter-section form.ctct-form-custom div.ctct-form-field {
+  margin-bottom: 0 !important;
+  flex: 1;
+}
+
+.newsletter-section .ctct-form-embed.form_0 .ctct-form-defaults .ctct-form-header,
+.newsletter-section .ctct-form-embed.form_0 .ctct-form-defaults .ctct-form-text {
+  color: var(--gray90) !important;
+}
+
+@media (min-width: 1025px) {
+  .heading-tag {
+    height: 88px;
+  }
+
+  .newsletter-section p {
+    text-align: justify;
+  }
+}
+
+@media (max-width: 512px) {
+  .heading-tag {
+    width: auto;
+    height: 43px;
+  }
+
+  .main-image {
+    height: 220px;
+  }
+
+  .img-half {
+    width: 100%;
+    float: none !important;
+    margin-bottom: 1rem;
+    max-height: 250px;
+    object-fit: cover;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  .img-thumbnail {
+    width: 40%;
+  }
+
+  .img-thumbnail.logo {
+    max-width: 35%;
+  }
+
+  .author-card .content-wrap {
+    flex: 1;
+  }
+
+  .author-card .image-wrap {
+    width: 4.5rem;
+    height: 4.5rem;
+  }
+
+  .author-card .name {
+    font-size: 1.25rem;
+  }
+
+  .author-card .title {
+    font-size: 0.75rem;
+  }
+
+  .author-card {
+    font-size: 0.875rem;
+  }
+
+  /* .banner-image {
+    min-height: 250px;
+  } */
+}

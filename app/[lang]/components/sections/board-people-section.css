@@ -1,0 +1,36 @@
+ul.innerTab {
+  padding: 10px 20px;
+  border: 1px solid var(--grey30);
+  border-radius: 20px;
+  max-width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul.innerTab li button {
+  color: var(--krnblue);
+  padding: 10px;
+  border: 0;
+  border-radius: 60px !important;
+  padding: 8px 24px;
+  background-color: white;
+  margin: 0.5rem;
+}
+
+@media (min-width: 1025px) {
+  ul.innerTab li button:hover {
+    background: var(--krnblue);
+    color: white !important;
+  }
+}
+ul.innerTab li button.active-link {
+  background: var(--krnblue);
+  color: white !important;
+}
+@media (max-width: 480px) {
+  ul.innerTab li,
+  ul.innerTab li button {
+    width: 100%;
+    margin: 0 !important;
+  }
+}

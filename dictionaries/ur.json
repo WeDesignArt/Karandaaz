@@ -1,0 +1,261 @@
+{
+  "navigation": {
+    "home": "ہوم",
+    "aboutUs": {
+      "title": "ہمارے بارے میں",
+      "desc": "مشترکہ خوشحالی کے لیے سرمایہ کاری.",
+      "aboutKarandaaz": "کارانداز کے بارے میں",
+      "boardAndCommittees": "بورڈ اور کمیٹیاں",
+      "ourPeople": "ہمارے لوگ",
+      "workWithUs": "ہمارے ساتھ کام کریں"
+    },
+    "whatWedo": {
+      "title": "ہم کیا کرتے ہیں",
+      "desc": "سرمایہ، ڈیجیٹل، جدت اور تحقیق کے اقدامات پر توجہ مرکوز کرتے ہوئے کاروباروں اور پسماندہ کمیونٹیز کی صلاحیتوں کو اجاگر کرنا۔",
+      "capital": {
+        "title": "سرمایہ",
+        "directInvestments": "براہ راست سرمایہ کاری",
+        "wholesaleInvestments": "ہول سیل سرمایہ کاری",
+        "strategicInvestments": "اسٹریٹجک سرمایہ کاری",
+        "greenInvestments": "ماحولیاتی سرمایہ کاری"
+      },
+      "digital": {
+        "title": "ڈیجیٹل",
+        "digitalPublicInfrastructure": "ڈیجیٹل عوامی ڈھانچہ",
+        "publicSectorEngagements": "سرکاری شعبے کی شمولیت",
+        "privateSectorEngagements": "نجی شعبے کی شمولیت",
+        "researchAndDataAnalytics": "تحقیق اور ڈیٹا تجزیہ",
+        "policyAndRegulation": "پالیسی اور ضابطے"
+      },
+      "innovation": {
+        "title": "انوویشن انویسٹمنٹس",
+        "innovationChallengeFund": "انوویشن چیلنج فنڈ",
+        "womenVentures": "خواتین کے کاروبار",
+        "greenfinInnovations": "گرین فِن انوویشنز"
+      },
+      "research": {
+        "title": "تحقیق",
+        "blogs": "بلاگز",
+        "publications": "اشاعتیں"
+      }
+    },
+    "newsAndMedia": {
+      "title": "خبریں اور میڈیا",
+      "desc": "پریس ریلیز، نیوز لیٹرز، اور کہانیوں کے ذریعے کارانداز کے اثرات کو دریافت کریں۔",
+      "newsAndPressReleases": "خبریں اور پریس ریلیز",
+      "newsletters": "نیوز لیٹر",
+      "karandaazStories": "کارانداز کہانیاں",
+      "mediaEnquiries": "میڈیا سے متعلق سوالات"
+    },
+    "careers": "ملازمتیں",
+    "procurement": "خریداری",
+    "contact": "رابطہ",
+    "dataPortal": "ڈیٹا پورٹل"
+  },
+  "footer": {
+    "contactUs": "ہم سے رابطہ کریں",
+    "number": "8449761 (51) 92+",
+    "address": "کارانداز پاکستان، 1-ای علی پلازہ،ناظم الدین روڈ، اسلام آباد",
+    "quickLinks": {
+      "heading": "فوری روابط",
+      "home": "ہوم",
+      "research": "تحقیق",
+      "capital": "سرمایہ",
+      "newsAndMedia": "خبریں اور میڈیا",
+      "digital": "ڈیجیٹل",
+      "about": "ہمارے بارے میں",
+      "innovation": "انوویشن انویسٹمنٹس",
+      "careers": "مواقعِ ملازمت",
+      "procurement": "خریداری"
+    },
+    "corporateLinks": {
+      "heading": "کارپوریٹ معلومات",
+      "antiFraud": "اینٹی فراڈ اور بدعنوانی کی پالیسی",
+      "safeGuardingPolicy": "تحفظ کی پالیسی",
+      "codeOfConduct": "ضابطہ اخلاق",
+      "privacyPolicy": "پرائیویسی پالیسی",
+      "annualReports": "سالانہ رپورٹس",
+      "disclaimer": "ڈس کلیمر",
+      "npoCertification": "این پی او سرٹیفیکیشن",
+      "siteMap": "سائٹ میپ"
+    },
+    "compliance": {
+      "heading": "مطابقت",
+      "statusNTN": "حیثیت اور این ٹی این",
+      "auditorLegalAdvisor": "آڈیٹر اور قانونی مشیر",
+      "secp": "ایس ای سی پی سروسز"
+    },
+    "newsletter": "ہمارے نیوز لیٹر کے لیے سائن اپ کریں"
+  },
+
+  "mainHomePage": {
+    "mainHeroSection": "مشترکہ خوشحالی کے لیے سرمایہ کاری",
+    "homeNewsTicker": "تازہ ترین خبریں"
+  },
+  "sitemap": {
+    "karandaaz": {
+      "heading": "کارانداز",
+      "homepage": "صفحۂ اول",
+      "capital": "سرمایہ",
+      "digital": "ڈیجیٹل",
+      "innovation": "جدت",
+      "research": "تحقیق",
+      "newsAndMedia": "خبریں اور میڈیا",
+      "about": "ہمارے بارے میں",
+      "careers": "مواقعِ ملازمت",
+      "procurement": "خریداری",
+      "contact": "رابطہ",
+      "faq": "عمومی سوالات"
+    },
+    "compliance": {
+      "heading": "مطابقت",
+      "statusNTN": "حیثیت اور این ٹی این",
+      "auditorLegalAdvisor": "آڈیٹر اور قانونی مشیر",
+      "secp": "ایس ای سی پی سروسز"
+    },
+    "corporateLinks": {
+      "heading": "کارپوریٹ معلومات",
+      "antiFraud": "اینٹی فراڈ اور بدعنوانی کی پالیسی",
+      "safeGuardingPolicy": "تحفظ کی پالیسی",
+      "codeOfConduct": "ضابطہ اخلاق",
+      "privacyPolicy": "پرائیویسی پالیسی",
+      "annualReports": "سالانہ رپورٹس",
+      "disclaimer": "ڈس کلیمر",
+      "npoCertification": "این پی او سرٹیفیکیشن",
+      "siteMap": "سائٹ میپ"
+    },
+    "about": {
+      "heading": "ہمارے بارے میں",
+      "boardAndCommittees": "بورڈ اور کمیٹیاں",
+      "ourPeople": "ہمارے لوگ",
+      "workWithUs": "ہمارے ساتھ کام کریں"
+    },
+    "newsAndMedia": {
+      "title": "خبریں اور میڈیا",
+      "newsAndPressReleases": "خبریں اور پریس ریلیز",
+      "newsletters": "نیوز لیٹر",
+      "karandaazStories": "کہانیاں",
+      "mediaEnquiries": "میڈیا سے متعلق سوالات"
+    },
+    "careers": {
+      "heading": "مواقعِ ملازمت",
+      "availablePositions": "دستیاب عہدے"
+    },
+    "procurement": {
+      "heading": "خریداری",
+      "contractualOppurtunities": "معاہداتی مواقع",
+      "generalTermsConditions": "عمومی شرائط و ضوابط",
+      "blacklistedFirms": "بلیک لسٹ کردہ کمپنیاں",
+      "archives": "محفوظات"
+    },
+    "dataPortal": {
+      "heading": "ڈیٹا پورٹل",
+      "browsableCategories": "قابلِ براؤز زمروں",
+      "signUp": "ٹولز کے لیے سائن اپ کریں",
+      "login": "پورٹل میں لاگ ان کریں",
+      "faq": "عمومی سوالات"
+    },
+    "capital": {
+      "heading": "سرمایہ",
+      "directInvestments": "براہ راست سرمایہ کاری",
+      "wholesaleInvestments": "ہول سیل سرمایہ کاری",
+      "strategicInvestments": "اسٹریٹجک سرمایہ کاری",
+      "greenInvestments": "ماحولیاتی سرمایہ کاری"
+    },
+    "digital": {
+      "heading": "ڈیجیٹل",
+      "digitalPublicInfrastructure": "ڈیجیٹل عوامی ڈھانچہ",
+      "publicSectorEngagements": "سرکاری شعبے کی شمولیت",
+      "privateSectorEngagements": "نجی شعبے کی شمولیت",
+      "researchAndDataAnalytics": "تحقیق اور ڈیٹا تجزیہ",
+      "policyAndRegulation": "پالیسی اور ضابطے"
+    },
+    "research": {
+      "heading": "تحقیق",
+      "blogs": "بلاگز",
+      "publications": "اشاعتیں"
+    },
+    "innovation": {
+      "heading": "جدت",
+      "innovationChallengeFund": "جدت چیلنج فنڈ",
+      "womenVentures": "خواتین کے کاروبار",
+      "greenfin": "گرین فِن انویشنز"
+    }
+  },
+  "breadCrumb": {
+    "about": "ہمارے بارے میں",
+    "board-and-visionaries": "بورڈ اور بصیرت رکھنے والے",
+    "people-at-karandaaz": "کارانداز کے لوگ",
+    "capital": "سرمایہ",
+    "direct-investments": "براہ راست سرمایہ کاری",
+    "bf-biosciences": "بی ایف بائیو سائنسز",
+    "renacon-pharma": "ریناکون فارما",
+    "al-haj-faw-motors-private-limited": "الحاج ایف اے ڈبلیو موٹرز (پرائیویٹ) لمیٹڈ",
+    "covid-19-assistance-excel-labs": "COVID-19 امداد برائے ایکسل لیبز",
+    "nrsp-apc": "NRSP APC",
+    "hac-agri": "ایچ اے سی ایگرو",
+    "secure-logistics-group": "سیکیور لاجسٹکس گروپ",
+    "wahdat-farm": "واحدت فارمز",
+    "excel-labs": "ایکسل لیبز",
+    "techlogix-international-limited": "ٹیکلاگکس انٹرنیشنل لمیٹڈ",
+    "gbp-20-million-risk-participation-facility-bank-alfalah-limited": "بینک الفلاح لمیٹڈ کے ساتھ رسک پارٹیسپیشن سہولت",
+    "wholesale-investments": "ہول سیل سرمایہ کاری",
+    "risk-participation-facility-js-bank-limited": "جے ایس بینک لمیٹڈ کے ساتھ رسک شراکَت داری کی سہولت",
+    "medium-term-reverse-factoring-facility-jsk-feeds": "جے ایس کے فیڈز کے لئے درمیانی مدت کی ریورس فیکٹرنگ سہولت",
+    "usd-40-million-risk-participation-facility-orix-leasing-pakistan": "پاکستان اورکس لیزنگ کے ساتھ رسک پارٹیسپیشن کی سہولت",
+    "gbp-4-5-million-facility-orix-leasing-pakistan-targeting-small-business-financing": "چھوٹے کاروبار کی مالی اعانت نشانہ بنانے والا ORIX لیزنگ پاکستان کے ساتھ سہولت",
+    "usd-50-million-risk-participation-facility-meezan-bank-limited": "رسک شرکت کی سہولت، میزان بینک لمیٹڈ کے ساتھ",
+    "strategic-investments": "اسٹریٹجک سرمایہ کاری",
+    "pakistan-microfinance-investment-company-pmic": "پاکستان مائیکروفنانس انویسٹمنٹ کمپنی (پی ایم آئی سی)",
+    "parwaaz-financial-services-ltd": "پروز فنانشل سروسز لمیٹڈ",
+    "infrazamin-pakistan": "انفرازمین پاکستان",
+    "green-investments": "ماحولیاتی سرمایہ کاری",
+    "albario-engineering-pvt-limited": "البریو انجینئرنگ (پرائیویٹ) لمیٹڈ",
+    "reon-energy-limited": "ریون انرجی لمیٹڈ",
+    "digital": "ڈیجیٹل",
+    "digital-public-infrastructure": "ڈیجیٹل عوامی ڈھانچہ",
+    "public-sector-engagements": "سرکاری شعبے کی شمولیت",
+    "private-sector-engagements": "نجی شعبے کی شمولیت",
+    "research-and-data-analysis": "تحقیق اور ڈیٹا تجزیہ",
+    "policy-regulation": "پالیسی اور ضابطے",
+    "innovation": "جدت",
+    "innovation-challenge-fund": "جدت چیلنج فنڈ",
+    "women-ventures": "خواتین کے کاروبار",
+    "research": "تحقیق",
+    "blogs": "بلاگز",
+    "publications": "اشاعتیں",
+    "news-and-media": "خبریں اور میڈیا",
+    "press-releases": "پریس ریلیز",
+    "newsletters": "نیوز لیٹر",
+    "karandaaz-stories": "کارانداز کہانیاں",
+    "careers": "ملازمتیں",
+    "open-positions": "خالی عہدے",
+    "procurement": "خریداری",
+    "open": "کھلا",
+    "archives": "محفوظات",
+    "general-terms-and-conditions": "عمومی شرائط و ضوابط",
+    "blacklisted-firms": " بلیک لسٹ کردہ کمپنیاں",
+    "contact": "رابطہ",
+    "disclaimer": "ڈس کلیمر",
+    "privacy-policy": "پرائیویسی پالیسی",
+    "sitemap": "سائٹ میپ",
+    "pakistan-digital-stack": "پاکستان ڈیجیٹل اسٹیک",
+    "buna-raast-integration": "بنو-راست انضمام",
+    "challenge-rounds": "چیلنج راؤنڈز",
+    "matching-grants": "میچنگ گرانٹس",
+    "pilot-to-scale": "پائلٹ سے اسکیل تک",
+    "karandaaz-discovery-challenge": "کارانداز ڈسکوری چیلنج",
+    "women-economic-digital-inclusion-initiative": "خواتین اقتصادی اور ڈیجیٹل شمولیت کی پہل",
+    "social-protection-interventions": "سوشل پروٹیکشن مداخلت"
+  },
+  "openOppurtunity": {
+    "heading": "کھلی مواقع",
+    "search": "مواقع تلاش کریں",
+    "program": "پروگرام",
+    "oppurtunityType": "موقع کی قسم",
+    "year": "سال"
+  },
+  "subscriptionSection": {
+    "heading": "ہمارے ماہرین کی رائے اور تازہ ترین معلومات حاصل کریں"
+  }
+}

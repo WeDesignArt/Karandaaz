@@ -1,0 +1,26 @@
+// @import "bootstrap/scss/_variables.scss";
+$theme-colors: (
+  'primary': rgba(8,98,139,1), // krnblue
+  'secondary': #833bec,
+  'success': #1ce1ac,
+  'info': #ff7d50,
+  'warning': #ffbe0b,
+  'danger': #ff007f,
+  'light': rgba(255,255,255,1), // grey00
+  'dark': #001738,
+);
+$card-border-radius: 20px;
+
+// $primary: red;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1240px
+);
+
+@import 'bootstrap/scss/bootstrap.scss';
+
+

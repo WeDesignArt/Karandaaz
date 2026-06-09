@@ -1,0 +1,9 @@
+.gallery-carousel .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+}
+.gallery-carousel .swiper-slide img {
+  border-radius: 10px;
+}

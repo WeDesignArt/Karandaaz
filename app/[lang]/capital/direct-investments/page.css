@@ -1,0 +1,35 @@
+.direct-investment-page-wrapper .related-media {
+  padding-top: 0;
+}
+.data-title {
+  display: flex;
+  align-items: center;
+}
+
+.data-title p {
+  font-weight: 600;
+  color: var(--krnblue);
+  padding: 1rem 0rem;
+  margin: 0.5rem 0.5rem;
+}
+
+.data-info {
+  padding: 1rem 1.5rem;
+  background: var(--blue00);
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0.5rem 0rem;
+}
+
+.data-info p {
+  margin: 0;
+}
+@media (max-width: 480px) {
+  .data-title p {
+    padding: 0;
+    margin: 1.5rem 0 0.5rem 0;
+  }
+}

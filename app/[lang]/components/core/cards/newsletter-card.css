@@ -1,0 +1,11 @@
+.news-letter-card img {
+  height: 246px;
+  margin: -2.2rem auto 0rem auto;
+  width: 174px;
+}
+@media (max-width: 480px) {
+  .news-letter-card img {
+    width: 100px;
+    height: auto;
+  }
+}

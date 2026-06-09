@@ -1,0 +1,37 @@
+.search-card {
+    border-radius: 12px;
+    background: white;
+    padding: 1rem 0rem;
+    margin: 0.4rem 0rem;
+}
+
+.search-tag {
+    font-size: 1rem;
+    border-radius: 20px;
+    padding: 0.2rem 0.6rem;
+    display: inline-block;   
+}
+
+h5.blog {
+    color: var(--yellow60);
+    background: var(--yellow00);
+}
+
+h5.karandaazresearch {
+    color: var(--green60);
+    background: var(--green00);
+}
+
+h5.pressrelease {
+    color: var(--pink60);
+    background: var(--pink00);
+}
+
+h5.library {
+    color: var(--blue60);
+    background: var(--blue00);
+}
+h5.stories {
+    color: var(--teal60);
+    background: var(--teal00);
+}

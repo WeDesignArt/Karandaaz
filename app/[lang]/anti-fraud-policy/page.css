@@ -1,0 +1,9 @@
+.terms-conditions p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.terms-conditions h5 {
+    color: var(--krnblue);
+    margin-top: 2.5rem;
+}
