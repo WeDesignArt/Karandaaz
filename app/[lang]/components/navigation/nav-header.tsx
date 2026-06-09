@@ -35,6 +35,7 @@ import {
   researchBlogsUrl,
   researchPublicationsUrl,
   researchChallengeRoundsUrl,
+  csrAndOutreachUrl,
 } from '../../../../utils/urls'
 import { i18n } from '../../../../i18n.config'
 
@@ -291,6 +292,12 @@ export const NavHeader = ({ trans, lang }: any) => {
                   href={isUrdu ? `/${lang}${careersUrl}` : careersUrl}
                 >
                   {trans.careers}
+                </Link>
+                <Link
+                  className={`underline-lg-hover ${isActive('/csr-and-outreach') ? 'active tx-grey00' : ''}`}
+                  href={isUrdu ? `/${lang}${csrAndOutreachUrl}` : csrAndOutreachUrl}
+                >
+                  CSR &amp; Outreach
                 </Link>
               </li>
               <li className='p-lg-3 pb-lg-4'>
