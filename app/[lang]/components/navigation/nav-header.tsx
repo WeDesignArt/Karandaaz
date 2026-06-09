@@ -293,6 +293,8 @@ export const NavHeader = ({ trans, lang }: any) => {
                 >
                   {trans.careers}
                 </Link>
+              </li>
+              <li className='p-lg-3 pb-lg-4'>
                 <Link
                   className={`underline-lg-hover ${isActive('/csr-and-outreach') ? 'active tx-grey00' : ''}`}
                   href={isUrdu ? `/${lang}${csrAndOutreachUrl}` : csrAndOutreachUrl}
