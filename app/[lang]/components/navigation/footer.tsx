@@ -391,17 +391,23 @@ export const Footer = ({ trans, lang }: any) => {
             </div>
           </div>
           <div className='row copyright mt-4'>
-            <div className='col-sm-12 col-md-4'>
+            <div className='col-sm-12 col-md-3'>
               <p className='tx-blue30 tx-small'>Copyrights 2025 Karandaaz Pakistan</p>
             </div>
             <div className='col-sm-12 col-md-6'>
-              <p className='tx-blue30 tx-small'>
+              <p className='tx-blue30 tx-small text-md-center'>
                 Non-profit company registered under section 42 of the companies act, 2017
               </p>
             </div>
-            <a className='col-sm-12 col-md-2 text-md-end designed-by tx-blue30 tx-small' href='https://www.rayn.group/'>
-              Designed by Rayn
-            </a>
+           <a 
+  className='col-sm-12 col-md-3 text-md-end designed-by tx-blue30 tx-small' 
+  href='https://www.i-o.digital/' 
+  target='_blank' 
+  rel='noopener noreferrer'
+>
+  Developed & Maintained by IO DIGITAL
+</a>
+
           </div>
         </div>
       </footer>
