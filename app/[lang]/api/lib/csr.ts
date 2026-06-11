@@ -81,24 +81,24 @@ const MOCK_CSR_DATA = {
   },
   directionalSection: [
     {
-      title: 'Community Financial Literacy',
+      title: 'Partnership with TCF',
       description:
-        '<p>We empower communities with financial knowledge and tools to achieve economic independence. Our programs reach underserved populations across Pakistan.</p>',
+        '<p>Karandaaz has partnered with The Citizens Foundation (TCF) to support their literacy and education programs in remote areas of Pakistan. Through this collaboration, we help provide quality education and learning opportunities to underprivileged children, empowering them with the knowledge and skills needed for a brighter future.</p>',
       buttontitle: 'Learn More',
       buttonLinkSlug: 'financial-literacy',
       image: {
-        node: {
+        node: { 
           mediaItemUrl:
             'https://krndevelop.wpenginepowered.com/wp-content/uploads/2024/07/women_financial_inclusion.png',
         },
       },
     },
     {
-      title: 'Women Economic Empowerment',
+      title: 'Sponsoring Student at NUST',
       description:
-        '<p>Through targeted outreach and support programs, we help women entrepreneurs access financial services and grow their businesses sustainably.</p>',
+        '<p>Karandaaz has been sponsoring deserving students at the National University of Sciences and Technology (NUST) since 2015. Selected purely on merit, these students represent some of the brightest minds in the country. Karandaaz supports them through their undergraduate degrees, covering tuition fees and living expenses, enabling them to focus on their education and achieve their full potential.</p>',
       buttontitle: 'Learn More',
-      buttonLinkSlug: 'women-empowerment',
+      buttonLinkSlug: 'sponsoring-student-at-nust',
       image: {
         node: {
           mediaItemUrl:
@@ -124,5 +124,6 @@ const MOCK_CSR_DATA = {
       content:
         '<p>Our programs cover major urban and rural areas across Pakistan, with a special focus on financially underserved regions and communities.</p>',
     },
+
   ],
 }

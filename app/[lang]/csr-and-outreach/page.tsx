@@ -6,8 +6,8 @@ import { ImagesMarquee } from '../components/extra/imagesMarquee'
 import SponsorsFooter from '../components/navigation/sponsors-footer'
 import { TopHeaderSection } from '../components/sections/top-header-section'
 import { csrAndOutreachUrl } from '../../../utils/urls'
-import { SubscriptionSection } from '../components/sections/subscription-section'
 import { DirectionalSection } from '../components/sections/directional-section'
+import { GetInTouchSection } from '../components/sections/get-in-touch-section'
 import { getCsrPageFields } from '../api/lib/csr'
 
 export function generateMetadata() {
@@ -128,15 +128,20 @@ export default async function CsrAndOutreach({ params }: any) {
                   data-bs-parent='#accordionExample'
                 >
                   <div className='accordion-body' dangerouslySetInnerHTML={{ __html: item.content }}></div>
+
+                  
                 </div>
               </div>
             ))}
+            <div className='d-flex justify-content-center mt-5'>
+            <a href="https://www.karandaaz.com.pk/faqs"  className='butn butn-solid'> View more</a>
+            </div>
           </div>
         </div>
       </section>
 
-      <div className='section-py-md bg-blue00'>
-        <SubscriptionSection lang={params.lang} />
+      <div className='section-py-md bg-grey'>
+        <GetInTouchSection lang={params.lang} />
       </div>
 
       <SponsorsFooter />
