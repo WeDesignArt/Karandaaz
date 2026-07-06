@@ -57,7 +57,7 @@ export default async function CsrAndOutreach({ params }: any) {
       <section className='section-py-md'>
         <TopHeaderSection heading={res?.headersection?.heading} lang={params.lang} />
         <div className='container'>
-          <h1 className='text-center'>CSR &amp; Outreach</h1>
+          <h1 className='text-center'>Our Commitment</h1>
         </div>
         <ImagesMarquee urls={GetUrlsArray(swiperImages)} />
       </section>
