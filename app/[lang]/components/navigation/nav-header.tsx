@@ -296,10 +296,10 @@ export const NavHeader = ({ trans, lang }: any) => {
               </li>
               <li className='p-lg-3 pb-lg-4'>
                 <Link
-                  className={`underline-lg-hover ${isActive('/csr-and-outreach') ? 'active tx-grey00' : ''}`}
-                  href={isUrdu ? `/${lang}${csrAndOutreachUrl}` : csrAndOutreachUrl}
+                  className={`underline-lg-hover ${isActive('/our-commitment') ? 'active tx-grey00' : ''}`}
+                  href={isUrdu ? `/${lang}/our-commitment` : '/our-commitment'}
                 >
-                  CSR &amp; Outreach
+                  Our Commitment
                 </Link>
               </li>
               <li className='p-lg-3 pb-lg-4'>
